@@ -1,4 +1,4 @@
-<img width="1088" height="634" alt="image" src="https://github.com/user-attachments/assets/6d71f6f1-f0a2-45f3-aa94-1295fd65a6f5" /># 4주차 컴퓨터 기본기 및 메모 실습 과제
+ 4주차 컴퓨터 기본기 및 메모 실습 과제
 
 ## 1. 파일 탐색기 확장자 표시 전/후 캡처 이미지 첨부
 
